@@ -18,3 +18,5 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ![Screenshot 2022-10-18 235509](https://user-images.githubusercontent.com/113002223/196623859-26d59000-0b3d-4fa0-8bf6-c50bab8a2338.png)
+# Deployed
+https://pradogeovana07.github.io/work-day-scheduler/
