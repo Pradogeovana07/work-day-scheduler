@@ -9,7 +9,7 @@ $(document).ready(function () {
    
     function renderCalendar(today, calEvents) {
 
-        let rowHr = moment(today).hour(20); 
+        let rowHr = moment(today).hour(9); 
         const calendar = $("div.container"); 
         calendar.empty(); 
 
